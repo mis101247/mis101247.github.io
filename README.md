@@ -35,12 +35,16 @@
         ]
     },
     "Development Tools": [
+        "Docker",
         "Visual Studio Code",
-        "GitHub",
-        "Git"
+        "Git",
+        "Bitbucket",
+        "GitHub"
     ],
     "Other skills": [
-        "Docker",
+        "HTML",
+        "Sass",
+        "CSS3",
         "Json",
         "Regular Expression"
     ],
@@ -48,6 +52,11 @@
         "Windows",
         "Linux",
         "MacOS"
+    ],
+    "RDBMS":[
+        "MySql",
+        "MongoDB",
+        "MSSQL"
     ]
 }
 ```
