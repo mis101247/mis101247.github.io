@@ -1,4 +1,5 @@
 
+
 # 柯昱佑 (Yu-You Ke)
 
  - Birthday: Nov 23rd , 1993
@@ -6,64 +7,86 @@
  - Personal Website: https://keyo.name/
  - E-Mail: 814007@gmail.com
  
-# My Skills
+## Experience
+### 果子云數位科技有限公司-since February 2018
+>Back-End engineer
+>>Build Sport Game by PHP and Node.js.
 
-```json
-{
-    "Programming Languages:": [
-        "PHP",
-        "Javascript",
-        "Node.js",
-        "C#",
-        "Java"
-    ],
-    "Libraries/Frameworks:": {
-        "PHP Frameworks": [
-            "Laravel",
-            "CodeIgniter",
-            "Phalcon"
-        ],
-        "Javascript": [
-            "JQuery",
-            "Vue.js",
-            "Angular2"
-        ],
-        "UI Frameworks": [
-            "Bootstrap",
-            "Vue-Element",
-            "Semantic-ui"
-        ]
-    },
-    "Development Tools": [
-        "Docker",
-        "Visual Studio Code",
-        "Git",
-        "Bitbucket",
-        "GitHub"
-    ],
-    "Other skills": [
-        "HTML",
-        "Sass",
-        "CSS3",
-        "Json",
-        "Regular Expression"
-    ],
-    "Operating Systems": [
-        "Windows",
-        "Linux",
-        "MacOS"
-    ],
-    "RDBMS":[
-        "MySql",
-        "MongoDB",
-        "MSSQL"
-    ]
-}
-```
+### 築內國際- October-December 2017
+>Back-End engineer
+>>Business to Consumer by PHP Laravel and Angular.js 
 
-# Personal Attributes 
+### 科遠電腦- June-September 2017
+>Software engineer
+>>Cooperation with Citi for FinTech by C# ASP dot NET
+
+## My Skills
+
+> Programming Languages:
+>>||Level|
+>>|--|--|
+>>| PHP | ★★★★☆ |
+>>| Javascript | ★★★★☆ |
+>>| Node.js | ★★★☆☆ |
+>>| C# | ★★☆☆☆ |
+>>| JAVA | ★★☆☆☆ |
+> Libraries/Frameworks:
+>> PHP Frameworks:
+>>>||Level|
+>>>|--|--|
+>>>| Laravel | ★★★☆☆ |
+>>>| CodeIgniter | ★★★☆☆ |
+>>>| Phalcon | ★☆☆☆☆ |
+>> Javascript:
+>>>||Level|
+>>>|--|--|
+>>>| JQuery | ★★★★☆ |
+>>>| Lodash | ★★★☆☆ |
+>>>| Vue.js | ★★★☆☆ |
+>>>| Nuxt.js | ★★☆☆☆ |
+>>>| Angular2 | ★★☆☆☆ |
+> UI Frameworks:
+>>||Level|
+>>|--|--|
+>>| Bootstrap3 | ★★★★☆ |
+>>| Semantic-ui | ★★★☆☆ |
+>>| Vue-Element | ★★☆☆☆ |
+>>| Onsen UI | ★☆☆☆☆ |
+> Development Tools:
+>>||Level|
+>>|--|--|
+>>|Visual Studio Code|★★★★☆ |
+>>| Docker | ★★★☆☆ |
+> Version control
+>>||Level|
+>>|------|------|
+>>|Git|★★★★☆ |
+>>|Bitbucket|★★★☆☆ |
+>>|GitHub|★★★☆☆ |
+>>|SVN|★★☆☆☆ |
+> Other skills
+>>||Level|
+>>|--|--|
+>>|Json|★★★★★|
+>>|Regular Expression|★★★★☆|
+>>|HTML|★★★★☆ |
+>>|CSS3|★★★☆☆|
+>>|Sass|★★☆☆☆ |
+> DataBase
+>>||Level|
+>>|--|--|
+>>|MySql/MariaDB|★★★★☆|
+>>|MSSQL|★★☆☆☆ |
+>>|MongoDB|★☆☆☆☆|
+> Operating Systems
+>>||Level|
+>>|--|--|
+>>|Windows|★★★★☆|
+>>|Linux|★★★☆☆ |
+>>|MacOS|★★★☆☆|
+
+
+## Personal Attributes 
 
  - 熱愛用程式設計改善工作效率，講白一點就是不想做一直重複的事情，就算是喜歡做的事情，也是會厭倦的
- - 喜歡嘗試新技術，所學不侷限於目前所熟習的知識。
- - 人類是不斷地在進步，希望能留名於世界的某個角落甚至改變世界，就算沒有達成，也要讓自己看得起自己。
- - 活著就是要有趣，給自己身邊一點趣味才好玩：）
+ - 喜歡學習嘗試新事物，所學不侷限於目前職業所需的知識。讓我們一起成長一起改變世界！！
