@@ -1,1 +1,61 @@
-Hello World
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Add this to <head> -->
+
+    <!-- Load required Bootstrap and BootstrapVue CSS -->
+    <link type="text/css" rel="stylesheet" href="http://unpkg.com/bootstrap/dist/css/bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="http://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.min.css" />
+
+    <!-- Load polyfills to support older browsers -->
+    <script src="http://polyfill.io/v3/polyfill.min.js?features=es2015%2CMutationObserver" crossorigin="anonymous"></script>
+
+    <!-- Load Vue followed by BootstrapVue -->
+    <script src="http://unpkg.com/vue@latest/dist/vue.min.js"></script>
+    <script src="http://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.min.js"></script>
+
+    <link type="text/css" rel="stylesheet" href="myself.css" />
+</head>
+
+<body>
+    <div id="app" class="container" >
+
+        <b-card-group columns v-for="x in datas.length" v-if="x%3 == 0">
+            <b-card  v-for="(item, index) in datas.slice((Math.ceil(x/3)-1)*3, (Math.ceil(x/3)-1)*3+3)" :img-src="item.thumbnailUrl" :title="item.title" img-alt="Image" img-top>
+                <b-card-text>
+                    {{item.descript}}
+                </b-card-text>
+                <b-button v-if="item.fileUrl" :href="item.fileUrl" variant="info" pill target="_blank">詳細pdf</b-button>
+                <b-button v-if="item.url" :href="item.url" variant="info" pill target="_blank">超連結</b-button>
+                <div slot="footer"><small class="text-muted"></small></div>
+            </b-card>
+        </b-card-group>
+
+    </div>
+</body>
+
+
+
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            datas: [
+                { "title": "北歐櫥窗電商平台", "descript": "目前工作負責前後台功能維護、開發(PHP Laravel Angular.js)", "thumbnailUrl": "images/nordic.png", "fileUrl":false, "url": "https://www.nordic.com.tw/" },
+                { "title": "災害防救平台", "descript": "當兵時為資訊專長，並協助維護開發各平台(PHP codeigniter、Semantic ui)", "thumbnailUrl": "images/PHP_DR.png", "fileUrl": "files/PHP_DR.pdf" },
+                { "title": "戰情作業平台", "descript": "當兵時為資訊專長，並協助維護開發各平台(PHP codeigniter、Bootstrap)", "thumbnailUrl": "images/PHP_CS.png", "fileUrl": "files/PHP_OA_CS.pdf" },
+                { "title": "共同作業平台", "descript": "當兵時為資訊專長，並協助維護開發各平台(PHP codeigniter、Bootstrap)", "thumbnailUrl": "images/PHPOA.png", "fileUrl": "files/PHP_OA_CS.pdf" },
+                { "title": "大學專題-學程規劃系統", "descript": "於OpenShift架起PHP、MySQL服務，前端框架semantic ui、並申請高應大校務API。", "thumbnailUrl": "images/PHP_KUAS_Project.png", "fileUrl": "files/PHP_KUAS_Project.pdf" },
+                { "title": "Java練習遊戲 蛇與樓梯", "descript": "利用Java撰寫Socket Server建立多人連線遊戲。", "thumbnailUrl": "images/JAVA_SnakesLadders.png", "fileUrl": "files/JAVA_SnakesLadders.pdf" },
+                { "title": "Java WebSocket練習 聊天室", "descript": "建立JAVA WebSocket，利用PHP撰寫Web去做溝通", "thumbnailUrl": "images/JAVA_WebSocket.png", "fileUrl": "files/JAVA_WebSocket.pdf" },
+                { "title": "Java練習 BBS", "descript": "利用Java撰寫Socket Server建立多人連線。", "thumbnailUrl": "images/JAVA_FingerGuessing.png", "fileUrl": "files/JAVA_BBS.pdf" },
+                { "title": "Java練習 多人猜拳", "descript": "利用Java撰寫Socket Server建立多人連線，JDBC連接MySql資料庫。", "thumbnailUrl": "images/java_BBS.png", "fileUrl": "files/JAVA_FingerGuessing.pdf" }
+            ]
+        }
+    })
+</script>
+
+
+</html>
