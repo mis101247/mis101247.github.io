@@ -2,13 +2,16 @@
 
 # 柯昱佑 (Yu-You Ke)
 
- - Birthday: Nov 23rd , 1993
  - Education: 國立高雄應用科技大學-資訊管理系 (2016畢)
  - Personal Website: https://keyo.name/
  - E-Mail: 814007@gmail.com
  
 ## Experience
-### 果子云數位科技有限公司-since February 2018
+### 類神經網路股份有限公司- February 2018 -March 2019
+>Full Stack engineer
+>>Build LINE Bot Chat Webhook by Node.js.
+
+### 果子云數位科技有限公司- February 2018 -March 2019
 >Back-End engineer
 >>Build Sport Game by PHP and Node.js.
 
@@ -27,7 +30,7 @@
 >>|--|--|
 >>| PHP | ★★★★☆ |
 >>| Javascript | ★★★★☆ |
->>| Node.js | ★★★☆☆ |
+>>| Node.js | ★★★★☆ |
 >>| C# | ★★☆☆☆ |
 >>| JAVA | ★★☆☆☆ |
 > Libraries/Frameworks:
@@ -81,9 +84,9 @@
 > Operating Systems
 >>||Level|
 >>|--|--|
->>|Windows|★★★★☆|
+>>|Windows|★★★☆☆|
 >>|Linux|★★★☆☆ |
->>|MacOS|★★★☆☆|
+>>|MacOS|★★★★☆|
 
 
 ## Personal Attributes 
