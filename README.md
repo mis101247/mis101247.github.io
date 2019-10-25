@@ -7,7 +7,7 @@
  - E-Mail: 814007@gmail.com
  
 ## Experience
-### 類神經網路股份有限公司- February 2018 -March 2019
+### 類神經網路股份有限公司- February August 2019 - now
 >Full Stack engineer
 >>Build LINE Bot Chat Webhook by Node.js.
 
