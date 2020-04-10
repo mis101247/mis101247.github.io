@@ -43,14 +43,15 @@
 >> Javascript:
 >>>||Level|
 >>>|--|--|
+>>>| Angular2 | ★★★☆☆ |
+>>>| Lodash | ★★★★☆ |
 >>>| JQuery | ★★★★☆ |
->>>| Lodash | ★★★☆☆ |
 >>>| Vue.js | ★★★☆☆ |
 >>>| Nuxt.js | ★★☆☆☆ |
->>>| Angular2 | ★★☆☆☆ |
 > UI Frameworks:
 >>||Level|
 >>|--|--|
+>>| Angular Material UI component | ★★★★☆ |
 >>| Bootstrap3 | ★★★★☆ |
 >>| Semantic-ui | ★★★☆☆ |
 >>| Vue-Element | ★★☆☆☆ |
@@ -64,8 +65,8 @@
 >>||Level|
 >>|------|------|
 >>|Git|★★★★☆ |
+>>|GitHub|★★★★☆ |
 >>|Bitbucket|★★★☆☆ |
->>|GitHub|★★★☆☆ |
 >>|SVN|★★☆☆☆ |
 > Other skills
 >>||Level|
@@ -78,15 +79,17 @@
 > DataBase
 >>||Level|
 >>|--|--|
+>>|Firebase-Firestore|★★★★☆|
 >>|MySql/MariaDB|★★★★☆|
 >>|MSSQL|★★☆☆☆ |
 >>|MongoDB|★☆☆☆☆|
 > Operating Systems
 >>||Level|
 >>|--|--|
+>>|MacOS|★★★★☆|
 >>|Windows|★★★☆☆|
 >>|Linux|★★★☆☆ |
->>|MacOS|★★★★☆|
+
 
 
 ## Personal Attributes 
