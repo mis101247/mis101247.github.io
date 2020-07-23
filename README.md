@@ -5,6 +5,7 @@
  - Education: 國立高雄應用科技大學-資訊管理系 (2016畢)
  - Personal Website: https://keyo.name/
  - E-Mail: 814007@gmail.com
+ - CakeResume: https://www.cakeresume.com/keyo
  
 ## Experience
 ### 類神經網路股份有限公司- August 2019 - now
