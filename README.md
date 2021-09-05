@@ -2,27 +2,25 @@
 
 # 柯昱佑 (Yu-You Ke)
 
- - Education: 國立高雄應用科技大學-資訊管理系 (2016畢)
- - Personal Website: https://keyo.name/
+ - Education: National Kaohsiung University of Applied Sciences - Management Information Systems 2016
  - E-Mail: 814007@gmail.com
  - CakeResume: https://www.cakeresume.com/keyo
  
 ## Experience
-### 類神經網路股份有限公司- August 2019 - now
->Full Stack engineer
->>Build LINE Bot Chat Webhook by Node.js.
+### 類神經網路股份有限公司 Aiii.Ai ． 08/2019 - Persent
+- Full Stack engineer
+  - Programmed with NodeJS framework Express to build LINE chatbot webhook server
+  - Experience in cloud platform such as Cloud Run, Big Query, Firebase of Google Cloud Platform (GCP)
+  - Expertise in Angular 2.0 framework and its ability to create simple and scalable code for SPA
+  - Use the Angular Material framework to develop the Front-End according to the style provided by UI/UX designer
 
-### 果子云數位科技有限公司- February 2018 -March 2019
->Back-End engineer
->>Build Sport Game by PHP and Node.js.
-
-### 築內國際- October-December 2017
->Back-End engineer
->>Business to Consumer by PHP Laravel and Angular.js 
-
-### 科遠電腦- June-September 2017
->Software engineer
->>Cooperation with Citi for FinTech by C# ASP dot NET
+### 果子云數位科技有限公司 Larvata ． 01/2018 - 02/2019
+- Node.js & PHP engineer
+  - Implement gaming API with Laravel project using PHP, data flow using Node.js
+  - Implement a job queue using Redis and Node.js with bull
+  - Experience in unit & integration testing with Mocha
+  - Experience in creating and using Docker in development and deployment
+  - Use Regex for importing csv file verification to increase efficiency by 30%
 
 ## My Skills
 
@@ -40,7 +38,6 @@
 >>>|--|--|
 >>>| Laravel | ★★★☆☆ |
 >>>| CodeIgniter | ★★★☆☆ |
->>>| Phalcon | ★☆☆☆☆ |
 >> Javascript:
 >>>||Level|
 >>>|--|--|
@@ -55,8 +52,6 @@
 >>| Angular Material UI component | ★★★★☆ |
 >>| Bootstrap3 | ★★★★☆ |
 >>| Semantic-ui | ★★★☆☆ |
->>| Vue-Element | ★★☆☆☆ |
->>| Onsen UI | ★☆☆☆☆ |
 > Development Tools:
 >>||Level|
 >>|--|--|
@@ -90,10 +85,3 @@
 >>|MacOS|★★★★☆|
 >>|Windows|★★★☆☆|
 >>|Linux|★★★☆☆ |
-
-
-
-## Personal Attributes 
-
- - 熱愛用程式設計改善工作效率，講白一點就是不想做一直重複的事情，就算是喜歡做的事情，也是會厭倦的
- - 喜歡學習嘗試新事物，所學不侷限於目前職業所需的知識。讓我們一起成長一起改變世界！！
