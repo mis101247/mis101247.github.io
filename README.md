@@ -2,7 +2,7 @@
 
 # 柯昱佑 (Yu-You Ke)
 
- - Education: National Kaohsiung University of Applied Sciences - Management Information Systems 2016
+ - Education: Department of Information ManagementNational Kaohsiung University of Applied Sciences 2016
  - E-Mail: 814007@gmail.com
  - CakeResume: https://www.cakeresume.com/keyo
  
