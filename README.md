@@ -1,10 +1,10 @@
 
 
-# 柯昱佑 (Yu-You Ke)
+# Yuyou, Ke
 
  - Education: Department of Information ManagementNational Kaohsiung University of Applied Sciences 2016
  - E-Mail: 814007@gmail.com
- - CakeResume: https://www.cakeresume.com/keyo
+ - CakeResume: https://www.cakeresume.com/keyo-en
  
 ## Experience
 ### 類神經網路股份有限公司 Aiii.Ai ． 08/2019 - Persent
